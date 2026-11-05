@@ -81,3 +81,7 @@ a:hover {
     margin-bottom: 10px;
     margin-left: 15px;
 }
+
+.post p {
+    white-space: pre-line;
+}
